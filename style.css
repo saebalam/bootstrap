@@ -1,0 +1,37 @@
+.nav-item {
+  list-style-type: none;
+}
+
+.navbar {
+  justify-content: flex-start;
+}
+
+.active {
+  color: #010105;
+}
+
+.row {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+footer {
+  margin-top: 45px;
+  padding: 10px 0 10px 0;
+}
+footer p {
+  margin-bottom: 0;
+}
+
+header {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 3.4rem;
+  word-spacing: 7px;
+  letter-spacing: 4px;
+  color: darkcyan;
+  text-align: center;
+  margin-top: 10px;
+}
+
+/*# sourceMappingURL=style.css.map */
